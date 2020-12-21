@@ -116,7 +116,7 @@
 
 @media (max-width: 767px) {
   #sec6 {
-    height: 135vh;
+    height: 150vh;
   }
 }
 
@@ -356,9 +356,9 @@ counterv:hover #number1 img {
   font-size: 1.7rem;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 575px) {
   #sec8 {
-    height: 55vh;
+    height: 40vh;
   }
 }
 
