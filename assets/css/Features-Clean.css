@@ -487,3 +487,36 @@ counterv:hover #number1 img {
   color: #a4c439;
 }
 
+#particles-js {
+  position: absolute;
+}
+
+#particles-js2 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.text-center.productinf {
+  font-size: 1.3rem;
+}
+
+.text-left.ml-3.producthl {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.productinf {
+  font-weight: bold;
+}
+
+.shapeluon {
+  position: absolute;
+  margin-top: -30%;
+}
+
+.shape {
+  position: absolute;
+  margin-top: 10%;
+}
+
