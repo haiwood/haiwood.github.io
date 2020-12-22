@@ -116,7 +116,7 @@
 
 @media (max-width: 767px) {
   #sec6 {
-    height: 135vh;
+    height: 150vh;
   }
 }
 
@@ -356,9 +356,9 @@ counterv:hover #number1 img {
   font-size: 1.7rem;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 575px) {
   #sec8 {
-    height: 55vh;
+    height: 40vh;
   }
 }
 
@@ -485,5 +485,38 @@ counterv:hover #number1 img {
 
 .text-green {
   color: #a4c439;
+}
+
+#particles-js {
+  position: absolute;
+}
+
+#particles-js2 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.text-center.productinf {
+  font-size: 1.3rem;
+}
+
+.text-left.ml-3.producthl {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.productinf {
+  font-weight: bold;
+}
+
+.shapeluon {
+  position: absolute;
+  margin-top: -30%;
+}
+
+.shape {
+  position: absolute;
+  margin-top: 10%;
 }
 

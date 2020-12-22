@@ -62,7 +62,7 @@
 }
 
 #hinhanh img {
-  max-width: 50%;
+  max-width: 65%;
   display: block;
   margin: auto;
 }
@@ -99,8 +99,7 @@
   margin-right: auto;
 }
 
-.shape {
+.shape2 {
   position: absolute;
-  margin-top: 4%;
 }
 
