@@ -62,7 +62,7 @@
 }
 
 #hinhanh img {
-  max-width: 65%;
+  max-width: 75%;
   display: block;
   margin: auto;
 }
@@ -75,7 +75,7 @@
 }
 
 #sec5 img {
-  max-width: 50%;
+  max-width: 35%;
 }
 
 @media (min-width: 768px) {
