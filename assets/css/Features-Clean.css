@@ -582,3 +582,20 @@ counterv:hover #number1 img {
   margin-right: auto;
 }
 
+.buttonx {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2%;
+}
+
+@media (max-width: 767px) {
+  .buttonx {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2%;
+    max-width: 50%;
+  }
+}
+
