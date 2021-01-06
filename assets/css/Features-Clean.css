@@ -571,3 +571,14 @@ counterv:hover #number1 img {
   }
 }
 
+#usp-1 {
+  /*max-width: 40%;*/
+}
+
+.img-usp {
+  max-width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
