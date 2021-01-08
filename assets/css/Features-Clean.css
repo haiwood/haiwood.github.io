@@ -560,10 +560,10 @@ counterv:hover #number1 img {
 }
 
 .phone {
-  width: 35%;
+  max-width: 45%;
   position: absolute;
-  top: 40%;
-  left: 55%;
+  top: 35%;
+  left: 50%;
 }
 
 .hrr-1 {
