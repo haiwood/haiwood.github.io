@@ -33,9 +33,15 @@
 }
 
 #sec3-usp-mobile img {
-  margin-top: 5px;
-  max-width: 100%;
+  /*margin-top: 5px;*/
+  max-width: 80%;
   float: left;
+}
+
+@media (max-width: 575px) {
+  #sec3-usp-mobile img {
+    max-width: 100%;
+  }
 }
 
 #sec3-usp-mobile .text-left {
