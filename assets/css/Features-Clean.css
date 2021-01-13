@@ -414,9 +414,6 @@ counterv:hover #number1 img {
 
 @media (min-width: 1200px) {
   .product-box {
-    /*color: #a4c439;*/
-    /*transition: 0.5s;*/
-    /*transform: scale(1.1);*/
     /*border-color: #a4c439;*/
     min-height: 75vh;
   }
@@ -424,10 +421,6 @@ counterv:hover #number1 img {
 
 @media (min-width: 992px) and (max-width: 1199px) {
   .product-box {
-    /*color: #a4c439;*/
-    /*transition: 0.5s;*/
-    /*transform: scale(1.1);*/
-    /*border-color: #a4c439;*/
     min-height: 100vh;
   }
 }
@@ -611,7 +604,7 @@ counterv:hover #number1 img {
   padding: 2%;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 991px) {
   .buttonx {
     display: block;
     margin-left: auto;
