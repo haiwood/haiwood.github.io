@@ -580,15 +580,16 @@ counterv:hover #number1 img {
   transition: 0.5s;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 768px) {
   .navbar-light .navbar-brand {
-    margin-left: 0;
+    margin-right: auto;
   }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 767px) {
   .navbar-light .navbar-brand {
-    margin-left: 5%;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
